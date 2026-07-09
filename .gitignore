@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+.next
+out
+build
+
+# Environment variables (CRITICAL)
+.env
+.env*.local
+
+# Logs and system files
+.DS_Store
+*.log
+
